@@ -1,5 +1,5 @@
 import java.io.*;
-class student
+class supermarket
 {
 public static void main (String[] args)
 {
